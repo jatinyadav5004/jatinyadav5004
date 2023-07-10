@@ -27,7 +27,7 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jatinyadav5004&show_icons=true&locale=en" alt="jatinyadav5004" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jatinyadav5004&show_icons=true&locale=en" alt="jatinyadav5004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinyadav5004&" alt="jatinyadav5004" /></p>
 
