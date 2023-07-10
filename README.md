@@ -13,7 +13,7 @@
 - 📫 How to reach me **jatinyadav5004@gmail.com**
 
 - ⚡ Fun fact **I think I am a fast learner and enthusiastic in learning new technologies.**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinyadav5004" alt="jatinyadav5004" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jatin-yadav-57629a203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-yadav-57629a203" height="30" width="40" /></a>
@@ -25,13 +25,13 @@
 
 <br><br>
 
-<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jatinyadav5004&show_icons=true&locale=en&layout=compact" alt="jatinyadav5004" /></p>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jatinyadav5004&show_icons=true&locale=en" alt="jatinyadav5004" /></p>
+
+<p><img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jatinyadav5004&show_icons=true&locale=en" alt="jatinyadav5004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinyadav5004&" alt="jatinyadav5004" /></p>
 
 <br>
-<br>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jatinyadavM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jatinyadavM" /></a></p>
