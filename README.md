@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jatin Yadav</h1>
+<h1 align ="center"><a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&center=true&width=435&lines=HI+%F0%9F%91%8B%2C+I'm+JATIN" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47ksu84zf7kg4ny6k839a47rq8r03ti9znrg174tw1&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
